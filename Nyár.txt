@@ -1,0 +1,2 @@
+Roadmap.sh --> mi az amit meg kell ismerni
+	JavaScript/FrontEnd
